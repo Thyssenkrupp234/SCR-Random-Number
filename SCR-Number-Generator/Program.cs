@@ -23,11 +23,15 @@ namespace SCR_Number_Generator
                 int input_max = int.Parse(Console.ReadLine());
                 Console.Clear();
                 Console.WriteLine("Number generated is " + new Random().Next(input_min, input_max + 1));
+                Console.WriteLine("\nPress enter to continue...");
+                Console.ReadLine();
             }
             if (option == 2)
             {
                 Console.Clear();
                 Console.Write("\nRandom train chosen is: class " + trains[new Random().Next(0, trains.Length)]);
+                Console.WriteLine("\nPress enter to continue...");
+                Console.ReadLine();
             }
         }
     }
