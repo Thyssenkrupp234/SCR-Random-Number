@@ -1,0 +1,5 @@
+/Users/lincolnmuller/SCR-Random-Number/SCR-Number-Generator/bin/Debug/netcoreapp3.1/publish/SCR-Number-Generator
+/Users/lincolnmuller/SCR-Random-Number/SCR-Number-Generator/bin/Debug/netcoreapp3.1/publish/SCR-Number-Generator.dll
+/Users/lincolnmuller/SCR-Random-Number/SCR-Number-Generator/bin/Debug/netcoreapp3.1/publish/SCR-Number-Generator.deps.json
+/Users/lincolnmuller/SCR-Random-Number/SCR-Number-Generator/bin/Debug/netcoreapp3.1/publish/SCR-Number-Generator.runtimeconfig.json
+/Users/lincolnmuller/SCR-Random-Number/SCR-Number-Generator/bin/Debug/netcoreapp3.1/publish/SCR-Number-Generator.pdb
