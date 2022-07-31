@@ -1,0 +1,14 @@
+/Users/lincolnmuller/SCR-Random-Number/SCR-Number-Generator/bin/Debug/netcoreapp3.1/osx-x64/SCR-Number-Generator
+/Users/lincolnmuller/SCR-Random-Number/SCR-Number-Generator/bin/Debug/netcoreapp3.1/osx-x64/SCR-Number-Generator.deps.json
+/Users/lincolnmuller/SCR-Random-Number/SCR-Number-Generator/bin/Debug/netcoreapp3.1/osx-x64/SCR-Number-Generator.runtimeconfig.json
+/Users/lincolnmuller/SCR-Random-Number/SCR-Number-Generator/bin/Debug/netcoreapp3.1/osx-x64/SCR-Number-Generator.runtimeconfig.dev.json
+/Users/lincolnmuller/SCR-Random-Number/SCR-Number-Generator/bin/Debug/netcoreapp3.1/osx-x64/SCR-Number-Generator.dll
+/Users/lincolnmuller/SCR-Random-Number/SCR-Number-Generator/bin/Debug/netcoreapp3.1/osx-x64/SCR-Number-Generator.pdb
+/Users/lincolnmuller/SCR-Random-Number/SCR-Number-Generator/obj/Debug/netcoreapp3.1/osx-x64/SCR-Number-Generator.csproj.AssemblyReference.cache
+/Users/lincolnmuller/SCR-Random-Number/SCR-Number-Generator/obj/Debug/netcoreapp3.1/osx-x64/SCR-Number-Generator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lincolnmuller/SCR-Random-Number/SCR-Number-Generator/obj/Debug/netcoreapp3.1/osx-x64/SCR-Number-Generator.AssemblyInfoInputs.cache
+/Users/lincolnmuller/SCR-Random-Number/SCR-Number-Generator/obj/Debug/netcoreapp3.1/osx-x64/SCR-Number-Generator.AssemblyInfo.cs
+/Users/lincolnmuller/SCR-Random-Number/SCR-Number-Generator/obj/Debug/netcoreapp3.1/osx-x64/SCR-Number-Generator.csproj.CoreCompileInputs.cache
+/Users/lincolnmuller/SCR-Random-Number/SCR-Number-Generator/obj/Debug/netcoreapp3.1/osx-x64/SCR-Number-Generator.dll
+/Users/lincolnmuller/SCR-Random-Number/SCR-Number-Generator/obj/Debug/netcoreapp3.1/osx-x64/SCR-Number-Generator.pdb
+/Users/lincolnmuller/SCR-Random-Number/SCR-Number-Generator/obj/Debug/netcoreapp3.1/osx-x64/SCR-Number-Generator.genruntimeconfig.cache
