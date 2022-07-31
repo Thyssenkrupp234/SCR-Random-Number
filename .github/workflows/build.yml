@@ -19,6 +19,20 @@ jobs:
         dotnet-version: 3.1
     - name: Build project
       run: dotnet publish -p:PublishSingleFile=true --no-self-contained -r osx-x64
+    - name: Codesign executable
+      env: 
+        MACOS_CERTIFICATE: ${{ secrets.MACOS_CERTIFICATE }}
+        MACOS_CERTIFICATE_PWD: ${{ secrets.MACOS_CERTIFICATE_PWD }}
+      run: |
+        echo $MACOS_CERTIFICATE | base64 —decode > certificate.p12
+        security create-keychain -p Riverside9111 build.keychain
+        security default-keychain -s build.keychain
+        security unlock-keychain -p Riverside9111 build.keychain
+        security import certificate.p12 -k build.keychain -P $MACOS_CERTIFICATE_PWD -T /usr/bin/codesign
+        security set-key-partition-list -S apple-tool:,apple:,codesign: -s -k Riverside9111 build.keychain
+        /usr/bin/codesign --force -s <identity-id> ./path/to/you/app -v
+      
+
     - uses: actions/upload-artifact@v3
       with:
         name: SCR-Random-Number-macOS
